@@ -18,4 +18,4 @@ ZVS драйвер — простой и высокоэффективный ин
 * Резисторы 10кОм в корпусе 1206 х2
 
 ## Где заказать?
-Я заказывал платы на ![JLCPCB](https://jlcpcb.com/GCU). На сайте требуется загрузить ![этот файлик](https://github.com/gotchau/zvs_tiny/blob/c36e9f77444c0f5e695eb65faf12f5ec5d531b44/Gerber_ZVS_Tiny%20PCB_2021-12-05.zip).
+Я заказывал платы на [JLCPCB](https://jlcpcb.com/GCU). На сайте требуется загрузить [этот файлик](https://github.com/gotchau/zvs_tiny/blob/c36e9f77444c0f5e695eb65faf12f5ec5d531b44/Gerber_ZVS_Tiny%20PCB_2021-12-05.zip).
